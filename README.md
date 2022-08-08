@@ -1,7 +1,7 @@
 # Hi there, Hakimin Azli - 👋 
 
 
-## I'm a Software Engineer, Future CEO of big company!!
+## I'm a Software Engineer, Currently Fresh Graduate
 
 - 🔭 Have high interest in developing application!
 - 🌱 I’m currently learning and developing mobile application (Flutter)💪
