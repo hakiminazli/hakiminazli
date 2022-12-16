@@ -5,7 +5,7 @@
 
 - 🔭 Have high interest in developing application!
 - 🌱 I’m currently learning and developing mobile application (Flutter)💪
-- 👯 Looking for a job
+- 👯 Currently working in Insurance Company as Java Backend (Analyst)
 - 🥅 My Goals: To build a responsive application and make a lot of money.
 - ⚡ Fun fact: I love Football, I like playing video games watching Youtube
 - 😬 Still intermediate in coding, or beginner-intermediate level but I won.t give up
