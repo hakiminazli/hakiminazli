@@ -1,5 +1,5 @@
 # Hi there - 👋 
-My name is Hakimin Azli, and I'm a recent graduate from Universiti Teknologi Malaysia, where I received my Bachelor's degree in Computer Science - Software Engineering. I'm excited to announce that I've recently been employed at one of the top insurance company, where I'll be working as an Analyst(Java Backend).
+My name is Hakimin Azli, and I'm a recent graduate from Universiti Teknologi Malaysia, where I received my Bachelor's degree in Computer Science - Software Engineering.  I am now currently be working as an Analyst(Java Backend). Therefore, I need to brush up my Java skills, mastering the fundamentals and experiencing hands on project in Spring boot app development. To achieve that, I currently learning the Java and Spring Boot through Udemy and LinkedIn Learning. Hence, I really hope that I am able to master the knowledge, contribute to a company and involves in a lot of projects so that I will gain a lot of experiences and skills.
 
 
 ## About Me
