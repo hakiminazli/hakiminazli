@@ -1,5 +1,5 @@
 # Hi there - 👋 
-My name is Hakimin Azli, and I'm a recent graduate from Universiti Teknologi Malaysia, where I received my Bachelor's degree in Computer Science - Software Engineering.  I am now currently be working as an Analyst(Java Backend). Therefore, I need to brush up my Java skills, mastering the fundamentals and experiencing hands on project in Spring boot app development. To achieve that, I currently learning the Java and Spring Boot through Udemy and LinkedIn Learning. Hence, I really hope that I am able to master the knowledge, contribute to a company and involves in a lot of projects so that I will gain a lot of experiences and skills.
+I am Hakimin Azli, graduate from Universiti Teknologi Malaysia, where I received my Bachelor's degree in Computer Science - Software Engineering.  I am now currently be working as an Analyst(Java Backend). Therefore, I need to brush up my Java skills, mastering the fundamentals and experiencing hands on project in Spring boot app development. To achieve that, I currently learning the Java and Spring Boot through Udemy and LinkedIn Learning. Hence, I really hope that I am able to master the knowledge, contribute to a company and involves in a lot of projects so that I will gain a lot of experiences and skills.
 
 
 ## About Me
@@ -8,7 +8,8 @@ During my time at university, I developed a passion for Software development, an
 ##My Skills
 Here are some of the skills that I have developed through my academic and personal projects:
 
-Proficient in Java, Javascript, Dart, and currently learning Python
+Proficient in Java, Javascript, Dart, My SQL
+Python intermediary
 Experience with Spring Framework, Flutter, and Laravel
 Familiarity with [MSSQL, Intellij, and VS Code
 
@@ -22,7 +23,7 @@ Familiarity with [MSSQL, Intellij, and VS Code
 - 🤔 Hope I can make my family proud
 
 ## What I'm Excited About
-I'm thrilled to join AIA Digital+ and be part of a team that is dedicated to developing innovative solutions. I'm excited to learn from my colleagues and contribute my skills and knowledge to the team.
+I'm happy when I understand and deliver. I'm excited to learn from my colleagues and contribute my skills and knowledge to the team.
 
 Thank you for taking the time to read my introduction. Feel free to reach out to me if you have any questions or if you would like to connect.
 
