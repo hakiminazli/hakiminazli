@@ -1,5 +1,5 @@
-# Hi there - 👋 
-I am Hakimin Azli, graduate from Universiti Teknologi Malaysia, where I received my Bachelor's degree in Computer Science - Software Engineering.  I am now currently be working as an Analyst(Java Backend). Therefore, I need to brush up my Java skills, mastering the fundamentals and experiencing hands on project in Spring boot app development. To achieve that, I currently learning the Java and Spring Boot through Udemy and LinkedIn Learning. Hence, I really hope that I am able to master the knowledge, contribute to a company and involves in a lot of projects so that I will gain a lot of experiences and skills.
+# Hi  
+I am Hakimin Azli, graduate from Universiti Teknologi Malaysia, where I received my Bachelor's degree in Computer Science - Software Engineering.  I am currently working as an Analyst(Java Backend). Currently mastering the fundamentals and experiencing hands on project in Spring boot app development. I really hope that I am able to master the knowledge, contribute to a company and involves in a lot of projects so that I will gain a lot of experiences and skills.
 
 
 ## About Me
