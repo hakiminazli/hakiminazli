@@ -15,12 +15,10 @@ Familiarity with [MSSQL, Intellij, and VS Code
 
 ## Things to know about myself
 - 🔭 Have high interest in developing application!
-- 🌱 I’m currently learning and developing mobile application (Flutter)💪
-- 👯 Currently working in Insurance Company as Java Backend (Analyst)
-- 🥅 My Goals: To build a responsive application and make a lot of money.
+- 🌱 Currently working as Java Backend
+- 🥅 Goals: To build a responsive application and make a lot of money.
 - ⚡ Fun fact: I love Football, I like playing video games watching Youtube
 - 😬 Proficient in coding, but still progressing to achieve expert-level 
-- 🤔 Hope I can make my family proud
 
 ## What I'm Excited About
 I'm happy when I understand and deliver. I'm excited to learn from my colleagues and contribute my skills and knowledge to the team.
