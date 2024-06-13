@@ -18,7 +18,7 @@ Familiarity with [MSSQL, Intellij, and VS Code
 - 🌱 Currently working as Java Backend
 - 🥅 Goals: To build a responsive application and make a lot of money.
 - ⚡ Fun fact: I love Football, I like playing video games watching Youtube
-- 😬 Proficient in coding, but still progressing to achieve expert-level 
+- 😬 Proficient in coding, progressing to achieve expert-level 
 
 ## What I'm Excited About
 I'm happy when I understand and deliver. I'm excited to learn from my colleagues and contribute my skills and knowledge to the team.
