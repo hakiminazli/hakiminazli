@@ -5,7 +5,7 @@ I just build, fix, and move forward.
 ## About Me
 Working man.
 
-##My Skills
+## My Skills
 Don't care anymore
 
 ## Things to know about myself
