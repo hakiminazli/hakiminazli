@@ -3,7 +3,7 @@ I have three years of experience as a Java Developer, working mainly with Java a
 I just build, fix, and move forward.
 
 ## About Me
-Working man.
+Working man. if i got time i will open github and commit something for my skills
 
 ## My Skills
 Don't care anymore
