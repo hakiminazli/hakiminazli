@@ -3,7 +3,7 @@ I have three years of experience as a Java Developer, working mainly with Java a
 I just build, fix, and move forward.
 
 ## About Me
-Working man. if i got time i will open github and commit something for my skills
+Working man. sometimes I code but most of the times I don't
 
 ## My Skills
 Don't care anymore
@@ -43,8 +43,5 @@ better don't
 
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [course]: http://vsCodeHero.com -->
-[twitter]: https://twitter.com/hakimin_azli
-[youtube]: https://www.youtube.com/channel/UCo3Rl86eYuWjNt0niptubqA
-[instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/hakiminazli/
 
