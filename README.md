@@ -1,6 +1,6 @@
 # Hi  
 I have three years of experience as a Java Developer, working mainly with Java and Spring Boot on backend systems.
-I just build, fix, and move forward.
+I just build, fix, and move forward. Oh one day AI will replace my job, so please pray for me so I can make as much money as possible before AI takes over the world
 
 ## About Me
 Working man. sometimes I code but most of the times I don't
