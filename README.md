@@ -1,6 +1,6 @@
 # Hi  
 Nothing much from me.
-I just build, fix, and move forward. Oh one day AI will replace my job, so please pray for me so I can make as much money as possible before AI takes over the world
+I just build, fix, and move forward. Oh one day AI will replace my job, so we see how.
 
 ## About Me
 Working man. sometimes I code but most of the times I don't
